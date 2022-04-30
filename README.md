@@ -4,7 +4,7 @@ The Havel-Hakimi algorithm determines whether a given degree sequence is graphic
 A useful step-by-step run-through of the algorithm trace is available to view as the accepted answer in <a href="https://math.stackexchange.com/questions/2246437/what-am-i-proving-with-the-havel-hakimi-theorem">this</a> question.
 
 # Files
-Two versions of the program are available in the repository. The original version was written in early 2019 and is available as `Havel_Hakimi.java`, while the updated code is available as two files in the HavelHakimi_2022 folder.
+Two versions of the program are available in the repository. The original version was written in late 2018 and is available as `Havel_Hakimi.java`, while the updated code is available as two files in the HavelHakimi_2022 folder.
 
 # Usage
 Compile the code by entering the parent directory and running `javac Havel_Hakimi.java` or `javac HavelHakimi.java Main.java`. The code can then be run via `java Havel_Hakimi` or `java Main DEGREE_SEQUENCE`.
